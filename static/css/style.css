@@ -1,0 +1,25 @@
+*{
+  padding:0;
+  margin:0;
+  text-decoration:none;
+  list-style: none;
+  font-family: "Poppins",sans-serif;
+}
+
+.header{
+  width:100%;
+  padding:25px 15%;
+  background: #191919;
+}
+.logo a{
+  color:white;
+  font-size: 30px;
+  font-weight: bold;
+}
+section{
+  padding:40px 15%;
+}
+.center{
+  font-size: 35px;
+  color:rgb(93, 93, 189);
+}
